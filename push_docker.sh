@@ -13,4 +13,4 @@ docker login &&\
     docker image tag app $dockerpath
 
 # Push Image
-docker image push $dockerpath 
+docker image push $dockerpath
