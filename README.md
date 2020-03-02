@@ -1,15 +1,15 @@
 ## Docker Container Project
 This is building docker project from scratch
 [![CircleCI](https://circleci.com/gh/homeiraazari/Docker-Container-Project.svg?style=svg)](https://circleci.com/gh/homeiraazari/Docker-Container-Project)
-#Project Description
+# Project Description
 This project takes 58 QB's from the 2015 NFL season and then sorts them based on QBR using pandas.
-#Requirements
+# Requirements
 pandas
 pylint
-#Docker Commands
+# Docker Commands
 Pull: docker pull jhagg26/project-two
 Run: docker run jhagg26/project-two
-#Docker Contents
+# Docker Contents
 Dockerfile
 Makefile
 README
