@@ -3,16 +3,16 @@
 ## Project Description
 Building docker project from scratch
 ## Requirements
-pandas
-pylint
+* pandas
+* pylint
 ## Docker Commands
-Pull: docker pull jhagg26/project-two
-Run: docker run jhagg26/project-two
+* Pull: docker pull homeiraazari/app
+* Run: docker run homeiraazari/app
 ## Docker Contents
-Dockerfile
-Makefile
-README
-app.py
-pass-2015.csv
-push-docker.sh
-requirements.txt
+* Dockerfile
+* Makefile
+* README
+* app.py
+* pass-2015.csv
+* push-docker.sh
+* requirements.txt
