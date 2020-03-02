@@ -26,6 +26,6 @@ Created Docker Container in AWS Cloud9, Integrated CircleCI and Published to Doc
 ## Docker Hub Container for this project:
 https://hub.docker.com/r/homeiraazari/app
 ## Demo of this project:
-https://youtu.be/I8Swju03Wx4
+
 [![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://youtu.be/I8Swju03Wx4)
 
