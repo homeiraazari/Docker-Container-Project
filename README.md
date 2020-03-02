@@ -15,7 +15,6 @@ Created Docker Container in AWS Cloud9, Integrated CircleCI and Published to Doc
 * Makefile
 * README
 * app.py
-* pass-2015.csv
 * push-docker.sh
 * requirements.txt
   * pandas
