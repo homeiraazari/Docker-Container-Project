@@ -1,7 +1,7 @@
 # Docker Container Project
 [![CircleCI](https://circleci.com/gh/homeiraazari/Docker-Container-Project.svg?style=svg)](https://circleci.com/gh/homeiraazari/Docker-Container-Project)
 ## Project Description
-Created Docker Container in AWS Cloud9, Integrated CircleCI and published to Docker Hub and GitHub repositories.
+Created Docker Container in AWS Cloud9, Integrated CircleCI and Published to Docker Hub and GitHub Repositories.
 ## Skills
 * Python
 * AWS EC2
